@@ -14,6 +14,8 @@ step is towards learning Data Science for Statistical Analysis and Machine Learn
 - 👯 I’m looking to collaborate on any Open Source Machine Learning Project.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about anything.
+
 # 📫 Reach me at:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanmay-goel-92209816a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanmay.goel.568)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tanmay.goel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TanmayGoel3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://http://tgoel5884.github.io//)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tgoel5884&show_icons=true)  
