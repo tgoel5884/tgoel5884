@@ -9,7 +9,7 @@ concepts and technologies related to Data Structure and Algorithms as well as in
 Python. I am also an active competitive coder, and fond of Problem Solving. My next
 step is towards learning Data Science for Statistical Analysis and Machine Learning.
 
-**tgoel5884/tgoel5884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**tgoel5884/tgoel5884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
