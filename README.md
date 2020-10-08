@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi folks 👋
 
 <!--
 **tgoel5884/tgoel5884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
