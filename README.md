@@ -1,6 +1,6 @@
 # Hi folks 👋
 
-A Pursuing Undergraduate Student in Computer Science Engineering (CSE) with
+I'm a Pursuing Undergraduate Student in Computer Science Engineering (CSE) with
 passion for new technologies, and always learning to add new skills in my skill set.
 I am a hardworking person but a believer in working smart. Always prepared to face
 any challenges in my life, and I see them as opportunities that give me a chance to
