@@ -9,9 +9,9 @@ concepts and technologies related to Data Structure and Algorithms as well as in
 Python. I am also an active competitive coder, and fond of Problem Solving. My next
 step is towards learning Data Science for Statistical Analysis and Machine Learning.
 
-- 🔭 I’m currently working on Machine Learning. 
+- 🔭 I’m currently working on creating applications with JavaScript. 
 - 🌱 I’m currently learning Cloud Computing.
-- 👯 I’m looking to collaborate on any Open Source Machine Learning Project.
+- 👯 I’m looking to collaborate on any Open Source Project.
 - 🤔 I’m looking for help with Application Development.
 - 💬 Ask me about anything.
 
