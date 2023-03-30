@@ -1,18 +1,13 @@
 # Hi folks 👋
 
-I'm a Pursuing Undergraduate Student in Computer Science Engineering (CSE) with
-passion for new technologies, and always learning to add new skills in my skill set.
-I am a hardworking person but a believer in working smart. Always prepared to face
-any challenges in my life, and I see them as opportunities that give me a chance to
-learn and grow. As of now, I have spent almost 2 years in learning engineering
-concepts and technologies related to Data Structure and Algorithms as well as in
-Python. I am also an active competitive coder, and fond of Problem Solving. My next
-step is towards learning Data Science for Statistical Analysis and Machine Learning.
+As a highly skilled software engineer with a strong background in problem-solving, data structures, algorithms, and various programming languages such as Python, C++, JavaScript, HTML, CSS, and experience in databases, operating systems and computer networking, I am well-versed in the design and development of efficient and effective software solutions. 
+I am experienced in fixing bugs, writing automation, studying software architecture and integrating features accordingly. I am a quick learner, and I am always eager to take on new challenges and opportunities. 
+I am excited to apply my skills and experience to help companies achieve their goals and improve their operations through the implementation of innovative software solutions.
 
-- 🔭 I’m currently working on creating applications with JavaScript. 
-- 🌱 I’m currently learning Cloud Computing.
+- 🔭 I’m currently working on creating applications with Python. 
+- 🌱 I’m currently into Machine Learning.
 - 👯 I’m looking to collaborate on any Open Source Project.
-- 🤔 I’m looking for help with Application Development.
+- 🤔 I’m looking for help with Time Management.
 - 💬 Ask me about anything.
 
 # 📫 Reach me at:
